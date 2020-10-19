@@ -25,7 +25,7 @@ const Review = () => {
         formData.append('name', review.name);
         formData.append('designationAndCompany', review.designationAndCompany);
         formData.append('description', review.description);
-        fetch('http://localhost:5000/review', {
+        fetch('https://thawing-meadow-02329.herokuapp.com/review', {
             method: 'POST',
             body: formData
         })

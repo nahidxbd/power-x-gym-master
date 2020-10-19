@@ -29,7 +29,7 @@ const Order = () => {
         formData.append('description', order.description);
         formData.append('price', order.price);
 
-        fetch('http://localhost:5000/addOrder', {
+        fetch('https://thawing-meadow-02329.herokuapp.com/addOrder', {
             method: 'POST',
             body: formData
         })

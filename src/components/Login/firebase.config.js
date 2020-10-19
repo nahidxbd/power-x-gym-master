@@ -1,10 +1,11 @@
-const firebaseConfig = {
-    apiKey: "AIzaSyBQD6hLpQAP5jA057R0SI8LxDZlEZczuws",
-    authDomain: "creative-agency-client-nahid.firebaseapp.com",
-    databaseURL: "https://creative-agency-client-nahid.firebaseio.com",
-    projectId: "creative-agency-client-nahid",
-    storageBucket: "creative-agency-client-nahid.appspot.com",
-    messagingSenderId: "200511278460",
-    appId: "1:200511278460:web:9d30eb373ee7a7dfa468f9"
+    const firebaseConfig = {
+    apiKey: "AIzaSyARbMT0JrYre3hH0GzvO8VFj7fKhrapQ7E",
+    authDomain: "creative-agency-client-nahidx.firebaseapp.com",
+    databaseURL: "https://creative-agency-client-nahidx.firebaseio.com",
+    projectId: "creative-agency-client-nahidx",
+    storageBucket: "creative-agency-client-nahidx.appspot.com",
+    messagingSenderId: "161003790768",
+    appId: "1:161003790768:web:895e7763df9a0dd51af675"
   };
   export default firebaseConfig;
+  
