@@ -50,9 +50,9 @@ const Membership = () => {
         <h6>City</h6>
       <input type="text" class="form-control" placeholder=""/>
     </div>
-    <div class="col-md-6 mt-3">
-    <h6>Last Name</h6>
-      <input type="Post Code" class="form-control" placeholder=""/>
+    <div class="col-md-6 ">
+    <h6>Post Code</h6>
+      <input type="number" class="form-control" placeholder="Post Code"/>
     </div>
     
   </div>
